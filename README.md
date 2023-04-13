@@ -19,7 +19,6 @@
 <br>
 <br>
 <br>
-<br>
 
-<h2 align="left">Socials:</h2>
+<h3 align="left">Socials:</h3>
 <p><a href="https://linkedin.com/in/joy-mascarenhas-378038258"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joy-mascarenhas-378038258" height="30" width="40" /></a></p>
