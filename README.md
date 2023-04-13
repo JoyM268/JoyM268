@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data structures and algorithms**
 
-- 💬 Ask me about **C, AI and Web3**
+- 💬 Ask me about **programming, AI, web 3.0, or any related topics!**
 
 - 📫 How to reach me **joymascarenhas268@gmail.com**
 
