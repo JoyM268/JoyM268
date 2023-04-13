@@ -22,6 +22,6 @@
 <br>
 <br>
 <h3 align="left">Connect with me:</h3>
-<p><a href="https://linkedin.com/in/joy-mascarenhas-378038258"><img align="center" src="https://github.com/JoyM268/JoyM268/blob/main/Icons/LinkedIn.png" alt="joy-mascarenhas-378038258" height="30" width="40" /></a>
-<a href="https://instagram.com/joym.7489" target="blank"><img align="center" src="https://github.com/JoyM268/JoyM268/blob/main/Icons/Instagram.png" alt="b" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/joym268" target="blank"><img align="center" src="https://github.com/JoyM268/JoyM268/blob/main/Icons/HackerRank.png" alt="joym268" height="30" width="40" /></a></p>
+<p><a href="https://linkedin.com/in/joy-mascarenhas-378038258"><img align="center" src="https://github.com/JoyM268/JoyM268/blob/main/Icons/LinkedIn.png" alt="joy-mascarenhas-378038258" height="30" width="35" /></a>
+&nbsp;<a href="https://instagram.com/joym.7489" target="blank"><img align="center" src="https://github.com/JoyM268/JoyM268/blob/main/Icons/Instagram.png" alt="b" height="30" width="35" /></a>
+&nbsp;<a href="https://www.hackerrank.com/joym268" target="blank"><img align="center" src="https://github.com/JoyM268/JoyM268/blob/main/Icons/HackerRank.png" alt="joym268" height="30" width="35" /></a></p>
