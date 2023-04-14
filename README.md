@@ -43,7 +43,4 @@
     <img align="center" src="https://github.com/JoyM268/JoyM268/blob/main/Icons/Instagram.png" alt="b" height="30" width="35" />
   </a>
   &nbsp;
-  &nbsp;
-  <a href="https://www.hackerrank.com/joym268" target="blank">
-    <img align="center" src="https://github.com/JoyM268/JoyM268/blob/main/Icons/HackerRank.png" alt="joym268" height="30" width="35" />   </a>
 </p>
