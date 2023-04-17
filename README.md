@@ -25,7 +25,7 @@
 </p>
 <h3 align="left">Github Languages Stats:</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joym268&show_icons=true&locale=en&layout=compact"    alt="joym268" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joym268&show_icons=true&locale=en&layout=compact" alt="joym268" />
 </p>
 <br>
 <br> 
