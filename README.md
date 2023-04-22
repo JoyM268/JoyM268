@@ -32,10 +32,10 @@
 <br>
 <br>
 <br>
-
+<p>
 <h3 align="left">Github streak stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joym268&" alt="joym268" /></p>
-
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p>
