@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **joymascarenhas268@gmail.com**
 
-- 💻 Skills include **C, C++, HTML5**
+- 💻 Skills include **C, HTML5**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -15,8 +15,7 @@
     <img src="https://github.com/JoyM268/JoyM268/blob/main/Icons/C.png" alt="c" width="40" height="40"/> 
   </a> 
   &nbsp;
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/JoyM268/JoyM268/blob/main/Icons/CPP.png" alt="cplusplus" width="40" height="40"/> 
+  
   </a> 
   &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
