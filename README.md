@@ -9,3 +9,8 @@
 
 - 💻 Skills include **C, HTML5, CSS, C++**
 
+ <ul><li> 📱 Connect with me
+
+
+<ul><li><a href="https://linkedin.com/in/joy-mascarenhas-378038258" target="blank"><b>LinkedIn</b></a><br></li>
+<li><a href="https://instagram.com/joym.7489" target="blank"><b>Instagram</b></a></li></ul></li></ul>
