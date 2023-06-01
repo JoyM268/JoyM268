@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Joy Mascarenhas</h1>
-<h3 align="center">I am a CSE student passionate about programming.</h3>
+
+- 🔭 I’m currently a **1st year CSE Student**
 
 - 🌱 I’m currently learning **Data structures and algorithms**
 
-- 💬 Ask me about **AI and Web 3.0**
+- 💬 Intrested to learn about **AI and Web 3.0**
 
 - 📫 How to reach me **joymascarenhas268@gmail.com**
 
