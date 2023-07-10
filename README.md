@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **joymascarenhas268@gmail.com**
 
-- 💻 Skills include **C, HTML5, CSS, C++, javascript**
+- 💻 Skills include **C, HTML5, CSS, C++**
 
  <ul><li> 📱 Connect with me
 
