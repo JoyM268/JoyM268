@@ -46,9 +46,3 @@
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
  </a>
 </p> 
-
-<h2>📊 Github Stats:</h2>
-<p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joym268&show_icons=true&locale=en&layout=compact" alt="joym268" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joym268&" alt="joym268" /></p>
-</p>
