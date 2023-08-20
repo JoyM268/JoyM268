@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Joy Mascarenhas</h1>
-<details>
-  <summary>GitHub Pages profile card</summary>
-  ![](https://komarev.com/ghpvc/?username=JoyM268)
-</details>
 
 - 🔭 I’m currently a **1st year CSE Student**
 
@@ -21,3 +17,4 @@
 <li><a href="https://www.hackerrank.com/JoyM268" target="blank"><b>HackerRank</b></a></li>
 <li><a href="https://instagram.com/joym.7489" target="blank"><b>Instagram</b></a></li>
 <li><a href="https://bit.ly/geeksforgeeks-joymascarenhas" target="blank"><b>GeeksForGeeks</b></a></li></ul></li></ul>
+  <!-- ![](https://komarev.com/ghpvc/?username=JoyM268)
