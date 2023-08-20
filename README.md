@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Joy Mascarenhas</h1>
-<p align = "center">I am a first-year student in the Computer Science and Engineering program, I am actively developing a strong foundation in the field. With a passion for technology and problem-solving, I am excited to explore new concepts and apply them to real-world challenges. Through coursework and other ongoing learning opportunities, I am committed to growing my knowledge and skills in this dynamic and rapidly evolving field.</p>
+<p align = "center">I am a first-year computer science and engineering student who is excited to explore new concepts and apply them to real-world challenges.<br>
+  I am committed to growing my knowledge and skills in this dynamic and rapidly evolving field.
+</p>
 
 <p align = "center"> 
   <img src="https://komarev.com/ghpvc/?username=JoyM268&label=Profile%20views&color=blue&style=for-the-badge" alt="JoyM268" /> 
 </p>
+
 <img src = "https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"/>
-<h2>About Me:</h2>
+
+<h2>🙂 About Me:</h2>
 
 - 🔭 I’m currently  studying in **1st year CSE**
 
@@ -13,13 +17,15 @@
 
 - 💬 Interested to learn about **AI and Web 3.0**
 
-<h2>Skills:</h2>
+<p>
+<h2>💻 Skills:</h2>
 <p>
  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 </p>
  
 <h2>📱 Connect with me:</h2>
@@ -40,3 +46,9 @@
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
  </a>
 </p> 
+
+<h2>📊 Github Stats:</h2>
+<p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joym268&show_icons=true&locale=en&layout=compact" alt="joym268" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joym268&" alt="joym268" /></p>
+</p>
