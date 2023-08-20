@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joy Mascarenhas</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=JoyM268&label=Profile%20views&color=89CFF0&style=flat" alt="JoyM268" /> </p>
+<p align = "center"> <img src="https://komarev.com/ghpvc/?username=JoyM268&label=Profile%20views&color=blue&style=for-the-badge" alt="JoyM268" /> </p>
 
 - 🔭 I’m currently a **1st year CSE Student**
 
