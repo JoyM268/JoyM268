@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joy Mascarenhas</h1>
+<details>
+  <summary>GitHub Pages profile card</summary>
+  ![](https://komarev.com/ghpvc/?username=JoyM268)
+</details>
 
 - 🔭 I’m currently a **1st year CSE Student**
 
