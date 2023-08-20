@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a>
  <a href="https://bit.ly/geeksforgeeks-joymascarenhas" target="blank">
-  <img src="https://github.com/JoyM268/JoyM268/blob/main/Icons/GFG%20Icon/GFG%20Icon.png" width = "132"/>
+  <img src="https://github.com/JoyM268/JoyM268/blob/main/GFG%20Icon.png" width = "132"/>
  </a>
  <a href="https://www.hackerrank.com/JoyM268" target="blank">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
