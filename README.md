@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Joy Mascarenhas</h1>
-<p align = "center">As a first-year student in the Computer Science and Engineering program at SDMCET, I am actively developing a strong foundation in the field. With a passion for technology and problem-solving, I am excited to explore new concepts and apply them to real-world challenges. Through coursework and other ongoing learning opportunities, I am committed to growing my knowledge and skills in this dynamic and rapidly evolving field.</p>
+<p align = "center">I am a first-year student in the Computer Science and Engineering program, I am actively developing a strong foundation in the field. With a passion for technology and problem-solving, I am excited to explore new concepts and apply them to real-world challenges. Through coursework and other ongoing learning opportunities, I am committed to growing my knowledge and skills in this dynamic and rapidly evolving field.</p>
 
 <p align = "center"> 
   <img src="https://komarev.com/ghpvc/?username=JoyM268&label=Profile%20views&color=blue&style=for-the-badge" alt="JoyM268" /> 
 </p>
+<img src = "https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"/>
 <h2>About Me:</h2>
 
 - 🔭 I’m currently  studying in **1st year CSE**
@@ -23,11 +24,8 @@
  
 <h2>📱 Connect with me:</h2>
 <p>
- <a href="https://bit.ly/geeksforgeeks-joymascarenhas" target="blank">
-  <img src="https://github.com/JoyM268/JoyM268/blob/main/Icons/GFG%20Icon.png" width = "132"/>
- </a>
- <a href="https://www.hackerrank.com/JoyM268" target="blank">
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+ <a href="mailto:joymascarenhas268@gmail.com" target="blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
  </a>
  <a href="https://linkedin.com/in/joy-mascarenhas" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -35,7 +33,10 @@
  <a href="https://instagram.com/joym.7489" target="blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a>
- <a href="https://github.com/JoyM268" target="blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+ <a href="https://bit.ly/geeksforgeeks-joymascarenhas" target="blank">
+  <img src="https://github.com/JoyM268/JoyM268/blob/main/Icons/GFG%20Icon.png" width = "132"/>
+ </a>
+ <a href="https://www.hackerrank.com/JoyM268" target="blank">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
  </a>
 </p> 
