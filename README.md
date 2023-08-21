@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joy Mascarenhas</h1>
-<p align = "center">I am a first-year computer science and engineering student who is excited to explore new concepts and apply them to real-world challenges.<br>
-  I am committed to growing my knowledge and skills in this dynamic and rapidly evolving field.
+<p align = "center">I am a first-year computer science and engineering student who is excited to explore new concepts and apply them to real-world challenges. I am committed to growing my knowledge and skills in this dynamic and rapidly evolving field.
 </p>
 
 <p align = "center"> 
