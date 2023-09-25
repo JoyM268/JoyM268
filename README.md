@@ -10,7 +10,7 @@
 
 <h2>🙂 About Me:</h2>
 
-- 🔭 I’m currently  studying in **1st year CSE**
+- 🔭 I’m currently  studying in **2nd year CSE**
 
 - 🌱 I’m currently learning **Data structures and algorithms**
 
