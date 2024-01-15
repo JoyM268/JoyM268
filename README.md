@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently  studying in **2nd year CSE**
 
-- 🌱 I’m currently learning **Data structures and algorithms**
+- 🌱 I’m currently learning **Android Development**
 
 - 💬 Interested to learn about **AI and Web 3.0**
 
