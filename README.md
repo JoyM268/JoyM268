@@ -39,7 +39,7 @@
  <a href="https://instagram.com/joym.7489" target="blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a>
- <a href="https://bit.ly/geeksforgeeks-joymascarenhas" target="blank">
+ <a href="https://www.geeksforgeeks.org/user/joymascarenhas/" target="blank">
   <img src="GFG Icon.png" width = "132"/>
  </a>
 </p> 
