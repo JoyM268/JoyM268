@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 💬 Interested to learn about **AI and Web 3.0**
+- 💬 Interested to learn about **AI and Blockchain**
 
 <p>
 <h2>💻 Skills:</h2>
