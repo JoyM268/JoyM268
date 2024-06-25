@@ -3,7 +3,10 @@
 </p>
 
 <p align = "center"> 
-  <img src="https://komarev.com/ghpvc/?username=JoyM268&label=Profile%20views&color=blue&style=for-the-badge" alt="JoyM268" /> 
+  <img src="https://komarev.com/ghpvc/?username=JoyM268&label=Profile%20views&color=blue&style=for-the-badge" alt="JoyM268" />&nbsp;
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/JoyM268?style=for-the-badge">&nbsp;
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/JoyM268?style=for-the-badge">&nbsp;
+  <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FJoyM268&query=forks&style=for-the-badge&label=Forks">
 </p>
 
 <img src = "https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"/>
