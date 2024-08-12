@@ -13,7 +13,7 @@
 
 <h2>🙂 About Me:</h2>
 
-- 🔭 I’m currently  studying in **2nd year CSE**
+- 🔭 I’m currently  studying in **3rd year CSE**
 
 - 🌱 I’m currently learning **Android Development**
 
@@ -39,7 +39,7 @@
  
 <h2>📱 Connect with me:</h2>
 <p>
- <a href="mailto:joymascarenhas268@gmail.com" target="blank">
+ <a href="mailto:joy.mascarenhas@outlook.com" target="blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
  </a>
  <a href="https://linkedin.com/in/joy-mascarenhas" target="blank">
