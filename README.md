@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently  studying in **3rd year CSE**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Interested to learn about **AI and Blockchain**
 
