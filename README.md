@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently  studying in **3rd year CSE**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Interested to learn about **AI and Blockchain**
 
