@@ -9,7 +9,7 @@
 
 <h2>🙂 About Me:</h2>
 
-- 🔭 I’m currently  studying in **3rd year CSE**
+- 🔭 I’m currently  studying in **4th year CSE**
 
 - 🌱 I’m currently learning **NodeJS and Express**
 
