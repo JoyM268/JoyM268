@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joy Mascarenhas</h1>
-<p align = "center">I am a student, pursuing my studies in computer science and engineering. I am excited to explore new concepts and apply them to real-world challenges. I am committed to growing my knowledge and skills in this dynamic and rapidly evolving field.
+<p align = "center">As a Backend Developer Intern at Northtron Entitysoft Corp, I focus on designing and implementing database schemas and developing scalable RESTful APIs using Django REST Framework. Collaborating with front-end teams, I ensure seamless integration and robust API performance.  
+</p><p align = "center">
+Pursuing a Bachelor of Engineering in Computer Science at SDM College of Engineering and Technology, I am passionate about full-stack development. My goal is to contribute to innovative projects while refining my technical expertise and collaborative skills in software development.
 </p>
 
  
