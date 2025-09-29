@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently  studying in **4th year CSE**
 
-- 🌱 I’m currently learning **NodeJS and Express**
+- 🌱 I’m currently learning **NextJS**
 
-- 💬 Interested to learn about **AI and Blockchain**
+- 💬 Interested to learn about **DevOps**
 
 <p>
 <h2>💻 Skills:</h2>
@@ -46,7 +46,5 @@
  <a href="https://instagram.com/joym.7489" target="blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
  </a>
- <a href="https://www.geeksforgeeks.org/user/joymascarenhas/" target="blank">
-  <img src="GFG Icon.png" width = "132" alt="GFG" />
- </a>
+ 
 </p> 
