@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Joy Mascarenhas</h1>
 <p align = "center">
 Pursuing a Bachelor of Engineering in Computer Science at SDM College of Engineering and Technology, I am passionate about full-stack development. My goal is to contribute to innovative projects while refining my technical expertise and collaborative skills in software development.
 </p>
